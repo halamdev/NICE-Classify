@@ -2,7 +2,8 @@ import { useLanguage } from '@/contexts/LanguageContext';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
 import { RadarChart, Radar, PolarGrid, PolarAngleAxis, PolarRadiusAxis, ResponsiveContainer } from 'recharts';
-
+import { useEffect, useState } from 'react';
+import { supabase } from '@/integrations/supabase/client';
 const radarData = [
   { subject: 'Class 9', A: 90, fullMark: 100 },
   { subject: 'Class 25', A: 75, fullMark: 100 },
@@ -14,8 +15,58 @@ const radarData = [
 
 export default function PortfolioPage() {
   const { t } = useLanguage();
-  const healthScore = 78;
 
+const [radarData, setRadarData] = useState<any[]>([]);
+const [healthScore, setHealthScore] = useState(0);
+useEffect(() => {
+  const fetchPortfolio = async () => {
+    const { data, error } = await supabase
+      .from('saved_results')
+      .select('*');
+
+    if (error) {
+      console.error(error);
+      return;
+    }
+
+    if (!data) return;
+
+    // 🔹 đếm số lần mỗi class
+    const classCount: Record<number, number> = {};
+
+    data.forEach((item) => {
+      const cls = item.class_number;
+      if (!classCount[cls]) classCount[cls] = 0;
+      classCount[cls]++;
+    });
+
+    // 🔹 chọn top class
+    const top = Object.entries(classCount)
+      .map(([cls, count]) => ({
+        cls: Number(cls),
+        count,
+      }))
+      .sort((a, b) => b.count - a.count)
+      .slice(0, 6);
+
+    const max = Math.max(...top.map((t) => t.count), 1);
+
+    // 🔹 radar data
+    const radar = top.map((t) => ({
+      subject: `Class ${t.cls}`,
+      A: Math.round((t.count / max) * 100),
+      fullMark: 100,
+    }));
+
+    setRadarData(radar);
+
+    // 🔹 health score (đơn giản)
+    const score = Math.min(100, Object.keys(classCount).length * 10);
+    setHealthScore(score);
+  };
+
+  fetchPortfolio();
+}, []);
   return (
     <div className="mx-auto max-w-4xl space-y-6">
       <h1 className="text-3xl font-bold">{t('Sức khỏe danh mục nhãn hiệu', 'Portfolio Health Score')}</h1>
@@ -53,7 +104,7 @@ export default function PortfolioPage() {
         </Card>
       </div>
 
-      <Card>
+      {/* <Card>
         <CardHeader>
           <CardTitle>{t('Gợi ý cải thiện', 'Improvement Suggestions')}</CardTitle>
         </CardHeader>
@@ -71,7 +122,7 @@ export default function PortfolioPage() {
             ))}
           </div>
         </CardContent>
-      </Card>
+      </Card> */}
     </div>
   );
 }

@@ -24,31 +24,98 @@ export default function SearchPage() {
   const [loading, setLoading] = useState(false);
   const [expandedClass, setExpandedClass] = useState<number | null>(null);
 
-  const handleSearch = async () => {
-    if (!query.trim()) return;
-    setLoading(true);
-    setResults([]);
+const handleSearch = async () => {
+  if (!query.trim()) return;
 
-    try {
-      const { data, error } = await supabase.functions.invoke('classify', {
-        body: { query: query.trim(), language },
-      });
+  setLoading(true);
+  setResults([]);
 
-      if (error) throw error;
+  try {
+    // 🔹 1. Gọi AI classification
+    const { data, error } = await supabase.functions.invoke("classify", {
+      body: {
+        query: query.trim(),
+        language,
+      },
+    });
 
-      if (data?.results) {
-        setResults(data.results);
-      }
-    } catch (err: any) {
-      toast({
-        title: t('Lỗi', 'Error'),
-        description: err.message || t('Không thể phân loại. Thử lại sau.', 'Classification failed. Try again later.'),
-        variant: 'destructive',
-      });
-    } finally {
-      setLoading(false);
+    if (error) throw error;
+
+    // 🔹 2. Nếu có kết quả → hiển thị + lưu DB
+    if (data?.results) {
+  setResults(data.results);
+
+  const {
+    data: { user },
+  } = await supabase.auth.getUser();
+
+  if (user) {
+    // 🔹 1. LƯU HISTORY
+    const { error: historyError } = await supabase
+      .from("search_history")
+      .insert([
+        {
+          user_id: user.id,
+          query: query.trim(),
+          results: data.results,
+          language: language,
+        },
+      ]);
+
+    if (historyError) {
+      console.error("History error:", historyError);
     }
-  };
+
+    // 🔹 2. AUTO SAVE (lấy kết quả tốt nhất)
+    const best = data.results[0];
+
+    if (best) {
+      // ❗ tránh lưu trùng
+      const { data: existing } = await supabase
+        .from("saved_results")
+        .select("id")
+        .eq("user_id", user.id)
+        .eq("query", query.trim())
+        .limit(1);
+
+      if (!existing || existing.length === 0) {
+        const { error: savedError } = await supabase
+          .from("saved_results")
+          .insert([
+            {
+              user_id: user.id,
+              query: query.trim(),
+              class_number: best.classNumber,
+              items: best.items,
+            },
+          ]);
+
+        if (savedError) {
+          console.error("Saved error:", savedError);
+        } else {
+          console.log("Auto saved");
+        }
+      }
+    }
+  }
+}
+  } catch (err: any) {
+    console.error("Search error:", err);
+
+    toast({
+      title: t("Lỗi", "Error"),
+      description:
+        err.message ||
+        t(
+          "Không thể phân loại. Thử lại sau.",
+          "Classification failed. Try again later."
+        ),
+      variant: "destructive",
+    });
+  } finally {
+    setLoading(false);
+  }
+};
 
   const getClassInfo = (num: number) => niceClasses.find((c) => c.classNumber === num);
 

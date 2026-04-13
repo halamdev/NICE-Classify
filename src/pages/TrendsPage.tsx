@@ -1,36 +1,118 @@
 import { useLanguage } from '@/contexts/LanguageContext';
 import { Card, CardContent, CardHeader, CardTitle } from '@/components/ui/card';
 import { Badge } from '@/components/ui/badge';
-import { LineChart, Line, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Legend } from 'recharts';
+import {
+  LineChart,
+  Line,
+  XAxis,
+  YAxis,
+  CartesianGrid,
+  Tooltip,
+  ResponsiveContainer,
+  Legend
+} from 'recharts';
 import { TrendingUp, TrendingDown, Minus } from 'lucide-react';
-
-const trendData = [
-  { month: 'Jan', class9: 1200, class42: 980, class25: 850, class35: 1100 },
-  { month: 'Feb', class9: 1350, class42: 1050, class25: 870, class35: 1080 },
-  { month: 'Mar', class9: 1500, class42: 1200, class25: 900, class35: 1150 },
-  { month: 'Apr', class9: 1420, class42: 1350, class25: 920, class35: 1200 },
-  { month: 'May', class9: 1600, class42: 1500, class25: 880, class35: 1180 },
-  { month: 'Jun', class9: 1750, class42: 1650, class25: 910, class35: 1220 },
-];
-
-const hotClasses = [
-  { cls: 9, trend: 'up', pct: '+18%', label: 'Phần mềm & Công nghệ' },
-  { cls: 42, trend: 'up', pct: '+22%', label: 'Dịch vụ IT & SaaS' },
-  { cls: 35, trend: 'stable', pct: '+3%', label: 'Quảng cáo & Marketing' },
-  { cls: 25, trend: 'down', pct: '-2%', label: 'Thời trang' },
-  { cls: 5, trend: 'up', pct: '+15%', label: 'Dược phẩm & Y tế' },
-];
+import { useEffect, useState } from 'react';
+import { supabase } from '@/integrations/supabase/client';
 
 export default function TrendsPage() {
   const { t } = useLanguage();
 
+  // ✅ HOOK PHẢI Ở ĐÂY
+  const [trendData, setTrendData] = useState<any[]>([]);
+  const [hotClasses, setHotClasses] = useState<any[]>([]);
+
+  // ✅ useEffect cũng phải ở đây
+  useEffect(() => {
+    const fetchTrends = async () => {
+      const { data, error } = await supabase
+        .from('search_history')
+        .select('*');
+
+      if (error) {
+        console.error(error);
+        return;
+      }
+
+      if (!data) return;
+
+      // 🔹 group theo tháng
+      const monthly: Record<string, Record<number, number>> = {};
+
+      data.forEach((item) => {
+        const date = new Date(item.created_at);
+        const month = date.toLocaleString('en-US', { month: 'short' });
+
+        if (!monthly[month]) monthly[month] = {};
+
+        const results = Array.isArray(item.results) ? item.results : [];
+
+        results.forEach((r: any) => {
+          const cls = r.classNumber;
+
+          if (!monthly[month][cls]) monthly[month][cls] = 0;
+          monthly[month][cls]++;
+        });
+      });
+
+      const months = Object.keys(monthly);
+
+      const chart = months.map((m) => ({
+        month: m,
+        class9: monthly[m][9] || 0,
+        class42: monthly[m][42] || 0,
+        class25: monthly[m][25] || 0,
+        class35: monthly[m][35] || 0,
+      }));
+
+      setTrendData(chart);
+
+      // 🔹 tính top class
+      const total: Record<number, number> = {};
+
+      data.forEach((item) => {
+        const results = Array.isArray(item.results) ? item.results : [];
+
+        results.forEach((r: any) => {
+          const cls = r.classNumber;
+
+          if (!total[cls]) total[cls] = 0;
+          total[cls]++;
+        });
+      });
+
+      const sorted = Object.entries(total)
+        .map(([cls, count]) => ({
+          cls: Number(cls),
+          count,
+        }))
+        .sort((a, b) => b.count - a.count)
+        .slice(0, 5);
+
+      const hot = sorted.map((s) => ({
+        cls: s.cls,
+        trend: 'up',
+        pct: `${s.count}`,
+        label: `Class ${s.cls}`,
+      }));
+
+      setHotClasses(hot);
+    };
+
+    fetchTrends();
+  }, []);
+
   return (
     <div className="mx-auto max-w-4xl space-y-6">
-      <h1 className="text-3xl font-bold">{t('Xu hướng đăng ký nhãn hiệu', 'Trademark Registration Trends')}</h1>
+      <h1 className="text-3xl font-bold">
+        {t('Xu hướng đăng ký nhãn hiệu', 'Trademark Registration Trends')}
+      </h1>
 
       <Card>
         <CardHeader>
-          <CardTitle>{t('Xu hướng đăng ký theo nhóm (6 tháng)', 'Registration Trends by Class (6 months)')}</CardTitle>
+          <CardTitle>
+            {t('Xu hướng đăng ký theo nhóm (6 tháng)', 'Registration Trends by Class (6 months)')}
+          </CardTitle>
         </CardHeader>
         <CardContent>
           <ResponsiveContainer width="100%" height={350}>
@@ -40,10 +122,10 @@ export default function TrendsPage() {
               <YAxis />
               <Tooltip />
               <Legend />
-              <Line type="monotone" dataKey="class9" stroke="hsl(215, 60%, 24%)" name="Class 9" strokeWidth={2} />
-              <Line type="monotone" dataKey="class42" stroke="hsl(199, 80%, 46%)" name="Class 42" strokeWidth={2} />
-              <Line type="monotone" dataKey="class25" stroke="hsl(142, 71%, 45%)" name="Class 25" />
-              <Line type="monotone" dataKey="class35" stroke="hsl(38, 92%, 50%)" name="Class 35" />
+              <Line type="monotone" dataKey="class9" stroke="hsl(215, 60%, 24%)" />
+              <Line type="monotone" dataKey="class42" stroke="hsl(199, 80%, 46%)" />
+              <Line type="monotone" dataKey="class25" stroke="hsl(142, 71%, 45%)" />
+              <Line type="monotone" dataKey="class35" stroke="hsl(38, 92%, 50%)" />
             </LineChart>
           </ResponsiveContainer>
         </CardContent>
@@ -51,7 +133,9 @@ export default function TrendsPage() {
 
       <Card>
         <CardHeader>
-          <CardTitle>{t('Nhóm ngành "hot"', 'Trending Classes')}</CardTitle>
+          <CardTitle>
+            {t('Nhóm ngành "hot"', 'Trending Classes')}
+          </CardTitle>
         </CardHeader>
         <CardContent>
           <div className="space-y-3">
@@ -67,9 +151,7 @@ export default function TrendsPage() {
                   {trend === 'up' && <TrendingUp className="h-4 w-4 text-green-500" />}
                   {trend === 'down' && <TrendingDown className="h-4 w-4 text-red-500" />}
                   {trend === 'stable' && <Minus className="h-4 w-4 text-yellow-500" />}
-                  <Badge variant={trend === 'up' ? 'default' : trend === 'down' ? 'destructive' : 'secondary'}>
-                    {pct}
-                  </Badge>
+                  <Badge>{pct}</Badge>
                 </div>
               </div>
             ))}
