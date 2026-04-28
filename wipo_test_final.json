@@ -1,0 +1,2654 @@
+[
+  {
+    "id": "wipo_01_01",
+    "q": "epoxy resins, unprocessed",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_01_02",
+    "q": "alginates for industrial purposes",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_01_03",
+    "q": "by-products of the processing of cereals for industrial purposes",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_01_04",
+    "q": "stem cells, other than for medical or veterinary purposes",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_01_05",
+    "q": "lamp black for industrial purposes",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_01_06",
+    "q": "sensitized plates for offset printing",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_01_07",
+    "q": "plant growth regulating preparations",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_01_08",
+    "q": "agricultural chemicals, except fungicides, herbicides, insecticides and parasiticides",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_01_09",
+    "q": "gypsum for use as a fertilizer",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_01_10",
+    "q": "metal tempering preparations",
+    "gt": 1,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_01",
+    "q": "anti-tarnishing preparations for metals",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_02",
+    "q": "glazes [paints, lacquers]",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_03",
+    "q": "paper for dyeing eggs",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_04",
+    "q": "stains for leather / mordants for leather",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_05",
+    "q": "ink for leather",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_06",
+    "q": "ink cartridges, filled, for printers and photocopiers",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_07",
+    "q": "toner cartridges, filled, for printers and photocopiers",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_08",
+    "q": "silver emulsions [pigments]",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_09",
+    "q": "marking ink for animals",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_02_10",
+    "q": "wood coatings [paints]",
+    "gt": 2,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_01",
+    "q": "adhesives for affixing false hair",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_02",
+    "q": "adhesive tapes for affixing false hair",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_03",
+    "q": "preparations for unblocking drain pipes",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_04",
+    "q": "rust removing preparations",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_05",
+    "q": "essential oils for fragrancing / ethereal oils for fragrancing",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_06",
+    "q": "glass cloth [abrasive cloth]",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_07",
+    "q": "make-up palettes containing cosmetics",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_08",
+    "q": "windscreen cleaning liquids / windshield cleaning liquids",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_09",
+    "q": "paint stripping preparations",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_03_10",
+    "q": "liquid latex body paint for cosmetic purposes",
+    "gt": 3,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_01",
+    "q": "wax [raw material]",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_02",
+    "q": "coal dust [fuel]",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_03",
+    "q": "dust absorbing compositions",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_04",
+    "q": "non-slipping preparations for belts",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_05",
+    "q": "rape oil for industrial purposes / colza oil for industrial purposes",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_06",
+    "q": "wax for lighting",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_07",
+    "q": "oils for paints",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_08",
+    "q": "solidified gases [fuel]",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_09",
+    "q": "candles* / tapers",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_04_10",
+    "q": "castor oil for industrial purposes",
+    "gt": 4,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_01",
+    "q": "aloe vera preparations for pharmaceutical purposes",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_02",
+    "q": "capsules made of dendrimer-based polymers, for pharmaceuticals",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_03",
+    "q": "dental amalgams of gold",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_04",
+    "q": "whey protein dietary supplements",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_05",
+    "q": "amino acids for veterinary purposes",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_06",
+    "q": "antiparasitic collars for animals",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_07",
+    "q": "pearl powder for medical purposes",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_08",
+    "q": "castor oil for medical purposes",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_09",
+    "q": "cod liver oil",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_05_10",
+    "q": "alloys of precious metals for dental purposes",
+    "gt": 5,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_01",
+    "q": "window frames of metal",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_02",
+    "q": "baskets of metal",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_03",
+    "q": "latches of metal",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_04",
+    "q": "sash fasteners of metal for windows",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_05",
+    "q": "furnace fireguards of metal",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_06",
+    "q": "bands of metal for tying-up purposes / wrapping or binding bands of metal",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_07",
+    "q": "couplings of metal for chains",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_08",
+    "q": "troughs of metal for mixing mortar",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_09",
+    "q": "titanium iron / ferrotitanium",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_06_10",
+    "q": "containers of metal for liquid fuel",
+    "gt": 6,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_01",
+    "q": "machining centres for metalworking / machining centers for metalworking",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_02",
+    "q": "bottle filling machines",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_03",
+    "q": "machines and apparatus for carpet shampooing, electric",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_04",
+    "q": "agricultural implements, other than hand-operated",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_05",
+    "q": "exhaust manifold for engines",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_06",
+    "q": "air pumps [garage installations]",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_07",
+    "q": "pasta making machines, electric",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_08",
+    "q": "sieves [machines or parts of machines]",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_09",
+    "q": "centrifugal machines / centrifuges [machines]",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_07_10",
+    "q": "stalk separators [machines]",
+    "gt": 7,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_01",
+    "q": "hand tools, hand-operated",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_02",
+    "q": "stirring sticks for mixing paint",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_03",
+    "q": "tube squeezers, hand-operated, other than for household purposes",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_04",
+    "q": "annular screw plates",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_05",
+    "q": "cutter bars [hand tools]",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_06",
+    "q": "egg slicers, non-electric",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_07",
+    "q": "hair straightening irons",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_08",
+    "q": "saw blades [parts of hand tools]",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_09",
+    "q": "mallets [hand instruments]",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_08_10",
+    "q": "extension pieces for braces for screw taps",
+    "gt": 8,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_01",
+    "q": "control panels [electricity]",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_02",
+    "q": "thin client computers",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_03",
+    "q": "speed checking apparatus for vehicles",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_04",
+    "q": "apparatus for testing breast milk, other than for medical or veterinary use",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_05",
+    "q": "capacitive finger sleeves for touchscreen devices",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_06",
+    "q": "head guards for sports",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_07",
+    "q": "junction sleeves for electric cables",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_08",
+    "q": "vacuum tubes [radio]",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_09",
+    "q": "objectives [lenses] [optics]",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_09_10",
+    "q": "scales with body mass analysers / scales with body mass analyzers",
+    "gt": 9,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_01",
+    "q": "disposable steam-heated patches for therapeutic purposes",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_02",
+    "q": "endoscopy cameras for medical purposes",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_03",
+    "q": "lenses [intraocular prostheses] for surgical implantation / intraocular prostheses [lenses] for surgical implantation",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_04",
+    "q": "diagnostic apparatus for medical purposes",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_05",
+    "q": "knee bandages, orthopaedic / knee bandages, orthopedic",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_06",
+    "q": "surgical implants comprised of artificial materials",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_07",
+    "q": "stockings for varices",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_08",
+    "q": "robotic exoskeleton suits for medical purposes",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_09",
+    "q": "capillary tubes for medical use",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_10_10",
+    "q": "medical cooling apparatus for use in therapeutic hypothermia",
+    "gt": 10,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_01",
+    "q": "microwave ovens for industrial purposes",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_02",
+    "q": "heating cushions, electric, not for medical purposes / heating pads, electric, not for medical purposes",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_03",
+    "q": "cooling installations and machines",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_04",
+    "q": "head torches / portable headlamps",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_05",
+    "q": "heating filaments, electric",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_06",
+    "q": "thermostatic valves [parts of heating installations]",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_07",
+    "q": "solar thermal collectors [heating]",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_08",
+    "q": "coolers for furnaces / cooling vats for furnaces",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_09",
+    "q": "drip irrigation emitters [irrigation fittings]",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_11_10",
+    "q": "apparatus for fertilizer irrigation",
+    "gt": 11,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_01",
+    "q": "airships / dirigible balloons",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_02",
+    "q": "windows for vehicles",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_03",
+    "q": "windscreens / windshields",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_04",
+    "q": "side view mirrors for vehicles",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_05",
+    "q": "air bags [safety devices for automobiles]",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_06",
+    "q": "pulks for transportation",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_07",
+    "q": "bodies for vehicles",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_08",
+    "q": "hydraulic circuits for vehicles",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_09",
+    "q": "vehicle bonnet pins / vehicle hood pins",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_12_10",
+    "q": "self-driving robots for delivery",
+    "gt": 12,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_01",
+    "q": "rescue flares, explosive or pyrotechnic",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_02",
+    "q": "detonating fuses for explosives / firing lanyards for explosives",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_03",
+    "q": "automatic firearm ammunition belts",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_04",
+    "q": "belts adapted for ammunition",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_05",
+    "q": "noise-suppressors for guns",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_06",
+    "q": "rifle cases / gun cases",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_07",
+    "q": "gun carriages [artillery]",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_08",
+    "q": "cartridge loading apparatus",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_09",
+    "q": "trigger guards for guns and rifles / trigger guards for rifles",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_13_10",
+    "q": "guncotton / pyroxylin",
+    "gt": 13,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_01",
+    "q": "sew-on tags of precious metal for clothing",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_02",
+    "q": "chains [jewellery] / chains [jewelry]",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_03",
+    "q": "brooches [jewellery] / brooches [jewelry]",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_04",
+    "q": "precious metals, unwrought or semi-wrought",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_05",
+    "q": "pendulums [clock- and watchmaking]",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_06",
+    "q": "jewellery hat pins / jewelry hatpins",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_07",
+    "q": "jewellery / jewelry",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_08",
+    "q": "jet, unwrought or semi-wrought",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_09",
+    "q": "lockets [jewellery] / lockets [jewelry]",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_14_10",
+    "q": "statues of precious metal",
+    "gt": 14,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_01",
+    "q": "stringed musical instruments",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_02",
+    "q": "colophony for stringed musical instruments / rosin for stringed musical instruments",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_03",
+    "q": "huqin [Chinese violins]",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_04",
+    "q": "musical instruments for children",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_05",
+    "q": "catgut for musical instruments",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_06",
+    "q": "pipa [Chinese guitars]",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_07",
+    "q": "basses [musical instruments]",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_08",
+    "q": "drumheads / skins for drums",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_09",
+    "q": "horsehair for bows for musical instruments",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_15_10",
+    "q": "cornets [musical instruments]",
+    "gt": 15,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_01",
+    "q": "paper bags for use in the sterilization of medical instruments / paper bags for use in the sterilisation of medical instruments",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_02",
+    "q": "chart pointers, non-electronic",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_03",
+    "q": "seaweed-based film for wrapping",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_04",
+    "q": "rollers for typewriters",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_05",
+    "q": "trading cards, other than for games",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_06",
+    "q": "hat boxes of cardboard",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_07",
+    "q": "padding materials of paper or cardboard / stuffing of paper or cardboard",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_08",
+    "q": "paper for recording machines",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_09",
+    "q": "handkerchiefs of paper",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_16_10",
+    "q": "sheets of reclaimed cellulose for wrapping",
+    "gt": 16,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_01",
+    "q": "liquid sealants for transmissions",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_02",
+    "q": "gum, raw or semi-worked",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_03",
+    "q": "threads of rubber, other than for textile use",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_04",
+    "q": "foam supports for flower arrangements [semi-finished products]",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_05",
+    "q": "adhesive tapes, other than stationery and not for cosmetic, medical or household purposes",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_06",
+    "q": "water-tight rings / stuffing rings",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_07",
+    "q": "acrylic resins, semi-processed",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_08",
+    "q": "gaskets* / joint packings",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_09",
+    "q": "bags [envelopes, pouches] of rubber, for packaging",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_17_10",
+    "q": "pipe gaskets / joint packings for pipes",
+    "gt": 17,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_01",
+    "q": "parts of rubber for stirrups",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_02",
+    "q": "furniture coverings of leather",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_03",
+    "q": "saddlecloths for horses",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_04",
+    "q": "cases of leather or leatherboard",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_05",
+    "q": "moleskin [imitation of leather]",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_06",
+    "q": "walking stick seats",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_07",
+    "q": "net bags for shopping",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_08",
+    "q": "business card cases",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_09",
+    "q": "cat o' nine tails",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_18_10",
+    "q": "bits for animals [harness]",
+    "gt": 18,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_01",
+    "q": "palings, not of metal / palisading, not of metal",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_02",
+    "q": "telephone booths, not of metal / telephone boxes, not of metal",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_03",
+    "q": "ducts, not of metal, for ventilating and air-conditioning installations",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_04",
+    "q": "glass granules for road marking / glass granules for marking out roads",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_05",
+    "q": "wall tiles, not of metal",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_06",
+    "q": "beacons, not of metal, non-luminous",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_07",
+    "q": "folding doors, not of metal",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_08",
+    "q": "roof flashing, not of metal",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_09",
+    "q": "tombs [monuments], not of metal",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_19_10",
+    "q": "limestone / calcareous stone",
+    "gt": 19,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_01",
+    "q": "bottles [containers], not of metal, for compressed gas or liquid air",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_02",
+    "q": "hinges, not of metal",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_03",
+    "q": "wall-mounted baby changing platforms",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_04",
+    "q": "placards of wood or plastics",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_05",
+    "q": "door fasteners, not of metal",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_06",
+    "q": "hand-held mirrors [toilet mirrors]",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_07",
+    "q": "locks, not of metal, other than electric",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_08",
+    "q": "bakers' bread baskets",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_09",
+    "q": "wall-mounted curtain holders",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_20_10",
+    "q": "furniture casters, not of metal",
+    "gt": 20,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_01",
+    "q": "electric facial cleansers",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_02",
+    "q": "apparatus for wax-polishing, non-electric",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_03",
+    "q": "candle jars [holders]",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_04",
+    "q": "shaving brush stands / stands for shaving brushes",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_05",
+    "q": "laundry balls, empty / washing balls, empty",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_06",
+    "q": "jugs / pitchers",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_07",
+    "q": "droppers for household purposes",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_08",
+    "q": "busts of porcelain, ceramic, earthenware, terra-cotta, clay or glass",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_09",
+    "q": "material for brush-making",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_21_10",
+    "q": "cruet sets for oil and vinegar",
+    "gt": 21,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_01",
+    "q": "seaweed for stuffing",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_02",
+    "q": "glass fibres for textile use / glass fibers for textile use",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_03",
+    "q": "raw linen [flax]",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_04",
+    "q": "braces, not of metal, for handling loads / harness, not of metal, for handling loads",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_05",
+    "q": "polyester fibres for stuffing upholstery / polyester fibers for stuffing upholstery",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_06",
+    "q": "wadding for filtering",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_07",
+    "q": "wrapping or binding bands, not of metal",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_08",
+    "q": "twine for nets",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_09",
+    "q": "packing [cushioning, stuffing] materials, not of rubber, plastics, paper or cardboard",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_22_10",
+    "q": "wood shavings for stuffing",
+    "gt": 22,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_01",
+    "q": "yarn* / thread",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_02",
+    "q": "woollen thread and yarn",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_03",
+    "q": "rayon thread and yarn",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_04",
+    "q": "jute thread and yarn",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_05",
+    "q": "embroidery thread and yarn",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_06",
+    "q": "spun thread and yarn",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_07",
+    "q": "sewing thread and yarn",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_08",
+    "q": "hemp thread and yarn",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_09",
+    "q": "fibreglass thread for textile use / fiberglass thread for textile use",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_23_10",
+    "q": "threads of plastic materials for textile use",
+    "gt": 23,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_01",
+    "q": "furniture coverings of plastic / coverings of plastic for furniture",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_02",
+    "q": "handkerchiefs of textile",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_03",
+    "q": "covers [loose] for furniture / loose covers for furniture",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_04",
+    "q": "adhesive fabric for application by heat",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_05",
+    "q": "shower curtains of textile or plastic",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_06",
+    "q": "elastic woven fabrics",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_07",
+    "q": "tablecloths, not of paper",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_08",
+    "q": "tablemats of textile",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_09",
+    "q": "table linen, not of paper",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_24_10",
+    "q": "plastic material [substitute for fabrics]",
+    "gt": 24,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_01",
+    "q": "straps for bras",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_02",
+    "q": "bathing suits / swimsuits",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_03",
+    "q": "face coverings [clothing], not for medical or sanitary purposes / face masks [clothing], not for medical or sanitary purposes",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_04",
+    "q": "clothing of imitations of leather",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_05",
+    "q": "heel protectors for shoes",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_06",
+    "q": "stuff jackets [clothing]",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_07",
+    "q": "bibs, not of paper",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_08",
+    "q": "overalls / smocks",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_09",
+    "q": "teddies [underclothing] / bodies [underclothing]",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_25_10",
+    "q": "visors being headwear",
+    "gt": 25,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_01",
+    "q": "shuttles for making fishing nets",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_02",
+    "q": "bows for the hair",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_03",
+    "q": "underwires for brassieres",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_04",
+    "q": "blouse fasteners / dress body fasteners",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_05",
+    "q": "crochet hooks / crochet needles",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_06",
+    "q": "bobbins for retaining embroidery floss or wool [not parts of machines]",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_07",
+    "q": "hair curling papers",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_08",
+    "q": "eyelets for clothing",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_09",
+    "q": "trimmings for clothing",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_26_10",
+    "q": "lace trimmings / passementerie",
+    "gt": 26,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_27_01",
+    "q": "bags adapted for yoga mats",
+    "gt": 27,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_27_02",
+    "q": "mats of woven rope for ski slopes",
+    "gt": 27,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_27_03",
+    "q": "vinyl floor coverings",
+    "gt": 27,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_27_04",
+    "q": "floor mats for vehicles",
+    "gt": 27,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_27_05",
+    "q": "gymnastic mats / gymnasium mats",
+    "gt": 27,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_27_06",
+    "q": "floor mats, fire-resistant, for fireplaces and barbecues",
+    "gt": 27,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_27_07",
+    "q": "wallcoverings made of artificial plants",
+    "gt": 27,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_01",
+    "q": "chips for gambling",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_02",
+    "q": "novelty toys for playing jokes",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_03",
+    "q": "seal skins [coverings for skis]",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_04",
+    "q": "pumps specially adapted for use with balls for games",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_05",
+    "q": "party poppers [party novelties]",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_06",
+    "q": "paper party hats",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_07",
+    "q": "bags especially designed for skis",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_08",
+    "q": "rollers for stationary exercise bicycles",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_09",
+    "q": "protective cups for sports",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_28_10",
+    "q": "candle holders for Christmas trees",
+    "gt": 28,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_01",
+    "q": "aubergine paste / eggplant paste",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_02",
+    "q": "almond oil for food",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_03",
+    "q": "sausages in batter",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_04",
+    "q": "tinned fruit / canned fruit",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_05",
+    "q": "game, not live",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_06",
+    "q": "liver pâté / liver pastes",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_07",
+    "q": "soya bean oil for food",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_08",
+    "q": "cottage cheese fritters",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_09",
+    "q": "extra virgin olive oil for food",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_29_10",
+    "q": "tajine [prepared meat, fish or vegetable dish] / tagine [prepared meat, fish or vegetable dish]",
+    "gt": 29,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_01",
+    "q": "noodle-based prepared meals",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_02",
+    "q": "artificial sweeteners for culinary purposes",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_03",
+    "q": "fruit coulis [sauces]",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_04",
+    "q": "hot dog sandwiches",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_05",
+    "q": "malt extract for food",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_06",
+    "q": "propolis* / bee glue",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_07",
+    "q": "groats for human food",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_08",
+    "q": "flowers or leaves for use as tea substitutes",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_09",
+    "q": "confectionery in the form of mousses",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_30_10",
+    "q": "coffee flavourings / coffee flavorings",
+    "gt": 30,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_01",
+    "q": "rice meal for forage",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_02",
+    "q": "arrangements of fresh fruit",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_03",
+    "q": "wood shavings for animal bedding",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_04",
+    "q": "kola nuts / cola nuts",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_05",
+    "q": "yeast for animal consumption",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_06",
+    "q": "unprocessed cereal seeds",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_07",
+    "q": "dried plants for decoration",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_08",
+    "q": "unprocessed edible linseed / unprocessed edible flaxseed",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_09",
+    "q": "stall food for animals",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_31_10",
+    "q": "live koi carp",
+    "gt": 31,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_01",
+    "q": "preparations for making non-alcoholic beverages",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_02",
+    "q": "extracts of hops for making beer",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_03",
+    "q": "non-alcoholic beverages flavoured with tea / non-alcoholic beverages flavored with tea",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_04",
+    "q": "protein-enriched sports beverages",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_05",
+    "q": "hop pellets for brewing beer",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_06",
+    "q": "non-alcoholic essences for making beverages",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_07",
+    "q": "powders for making soft drinks",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_08",
+    "q": "syrups for lemonade",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_09",
+    "q": "rice-based beverages, other than milk substitutes",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_32_10",
+    "q": "preparations for making carbonated water / preparations for making aerated water",
+    "gt": 32,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_33_01",
+    "q": "alcoholic fruit extracts",
+    "gt": 33,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_33_02",
+    "q": "sugarcane-based alcoholic beverages",
+    "gt": 33,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_33_03",
+    "q": "alcoholic beverages, except beer",
+    "gt": 33,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_33_04",
+    "q": "flavoured brewed alcoholic malt beverages, except beers / flavored brewed alcoholic malt beverages, except beers",
+    "gt": 33,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_33_05",
+    "q": "hydromel [mead] / mead [hydromel]",
+    "gt": 33,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_01",
+    "q": "flavourings for tobacco / flavorings for tobacco",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_02",
+    "q": "nicotine pouches for use as a tobacco substitute, not for medical purposes",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_03",
+    "q": "pocket machines for rolling cigarettes",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_04",
+    "q": "flavourings for use in electronic cigarettes / flavorings for use in electronic cigarettes",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_05",
+    "q": "pipe racks for tobacco pipes",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_06",
+    "q": "spittoons for tobacco users",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_07",
+    "q": "tips of yellow amber for cigar and cigarette holders",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_08",
+    "q": "books of cigarette papers",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_09",
+    "q": "mouthpieces for cigarette holders",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_34_10",
+    "q": "lighters for smokers",
+    "gt": 34,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_01",
+    "q": "administrative services for the relocation of businesses",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_02",
+    "q": "price comparison services",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_03",
+    "q": "writing of curriculum vitae for others / writing of résumés for others",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_04",
+    "q": "advertising services to create brand identity for others",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_05",
+    "q": "online retail services for downloadable and pre-recorded music and movies",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_06",
+    "q": "psychological testing for the selection of personnel",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_07",
+    "q": "rental of billboards [advertising boards]",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_08",
+    "q": "business management consultancy",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_09",
+    "q": "marketing in the framework of software publishing",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_35_10",
+    "q": "business consultancy services for digital transformation",
+    "gt": 35,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_01",
+    "q": "savings bank services",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_02",
+    "q": "cheque verification / check verification",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_03",
+    "q": "rental of payment terminals",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_04",
+    "q": "hire-purchase financing / lease-purchase financing",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_05",
+    "q": "rental of real estate",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_06",
+    "q": "real estate agency services",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_07",
+    "q": "financial valuation of intellectual property assets",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_08",
+    "q": "online banking services rendered in virtual environments",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_09",
+    "q": "stock exchange quotations",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_36_10",
+    "q": "issuance of prepaid gift cards",
+    "gt": 36,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_01",
+    "q": "rental of laundry washing machines",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_02",
+    "q": "rental of fuel dispensing machines",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_03",
+    "q": "custom installation of exterior, interior and mechanical parts of vehicles [tuning]",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_04",
+    "q": "burglar alarm installation and repair",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_05",
+    "q": "hydraulic fracturing services / fracking services",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_06",
+    "q": "painting or repair of signs",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_07",
+    "q": "mobile telephone battery charging services / cell phone battery charging services",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_08",
+    "q": "demolition of buildings",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_09",
+    "q": "providing information relating to repairs",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_37_10",
+    "q": "rental of cranes [construction equipment]",
+    "gt": 37,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_01",
+    "q": "transmission of electronic mail",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_02",
+    "q": "communications by fibre optic networks / communications by fiber optic networks",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_03",
+    "q": "streaming of data",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_04",
+    "q": "providing online forums",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_05",
+    "q": "providing access to databases",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_06",
+    "q": "transmission of telegrams",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_07",
+    "q": "providing user access to global computer networks",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_08",
+    "q": "geolocation services [telecommunications services]",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_09",
+    "q": "rental of facsimile apparatus",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_38_10",
+    "q": "paging services [radio, telephone or other means of electronic communication]",
+    "gt": 38,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_01",
+    "q": "refrigerator rental / frozen-food locker rental",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_02",
+    "q": "transport of captured carbon dioxide for others",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_03",
+    "q": "armoured-car transport / armored-car transport",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_04",
+    "q": "franking of mail",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_05",
+    "q": "storage / warehousing",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_06",
+    "q": "car sharing services",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_07",
+    "q": "railway coach rental",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_08",
+    "q": "operating canal locks",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_09",
+    "q": "locating and tracking of cargo for transportation purposes",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_39_10",
+    "q": "rental of diving bells",
+    "gt": 39,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_01",
+    "q": "rental of batteries",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_02",
+    "q": "slaughtering of animals",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_03",
+    "q": "rental of industrial robots for use in manufacturing",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_04",
+    "q": "rental of printers for use with computers",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_05",
+    "q": "rental of air scrubbers for mould remediation / rental of air scrubbers for mold remediation",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_06",
+    "q": "framing of works of art",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_07",
+    "q": "window tinting treatment being surface coating",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_08",
+    "q": "production of renewable green energy",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_09",
+    "q": "fulling of cloth",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_40_10",
+    "q": "rental of space heating apparatus",
+    "gt": 40,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_01",
+    "q": "providing casino facilities [gambling]",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_02",
+    "q": "providing golf facilities",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_03",
+    "q": "rental of radio and television sets",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_04",
+    "q": "organization of swingers' parties",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_05",
+    "q": "rental of motion pictures",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_06",
+    "q": "directing of shows",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_07",
+    "q": "know-how transfer [training]",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_08",
+    "q": "providing user reviews for entertainment or cultural purposes",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_09",
+    "q": "rental of machines for physical exercises",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_41_10",
+    "q": "sports commentary services",
+    "gt": 41,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_01",
+    "q": "duplication of computer programs",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_02",
+    "q": "hosting software platforms for virtual reality-based work collaboration",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_03",
+    "q": "design of interior decor",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_04",
+    "q": "logo design services",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_05",
+    "q": "consultancy in the design and development of computer hardware",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_06",
+    "q": "rental of user-programmable humanoid robots, not configured",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_07",
+    "q": "inspection services for new and used vehicles before sale",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_08",
+    "q": "artificial intelligence as a service [AIaaS]",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_09",
+    "q": "rental of web servers",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_42_10",
+    "q": "website design consultancy",
+    "gt": 42,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_01",
+    "q": "retirement home services",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_02",
+    "q": "rental of holiday accommodation / rental of vacation accommodation",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_03",
+    "q": "rental of robots for preparing beverages",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_04",
+    "q": "ghost kitchen services",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_05",
+    "q": "rental of lighting apparatus",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_06",
+    "q": "rental of tents",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_07",
+    "q": "rental of temporary accommodation",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_08",
+    "q": "decorating of food",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_09",
+    "q": "rental of drinking water dispensers",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_43_10",
+    "q": "holiday camp services [lodging]",
+    "gt": 43,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_01",
+    "q": "rental of hair styling apparatus",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_02",
+    "q": "transplanting of trees",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_03",
+    "q": "Attention Deficit Disorder screening services / ADD screening services",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_04",
+    "q": "providing service animals to persons with disabilities",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_05",
+    "q": "medical equipment rental",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_06",
+    "q": "providing mental health rehabilitation facilities",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_07",
+    "q": "learning disability screening services",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_08",
+    "q": "rental of spectacles / rental of eyeglasses",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_09",
+    "q": "tree planting for carbon offsetting purposes",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_44_10",
+    "q": "consultancy in the field of viticulture",
+    "gt": 44,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_01",
+    "q": "legal services in relation to the negotiation of contracts for others",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_02",
+    "q": "mortuary cosmetologists' services / desairologists' services",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_03",
+    "q": "locating and tracking of lost property",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_04",
+    "q": "chaperoning / escorting in society [chaperoning]",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_05",
+    "q": "registration of domain names [legal services]",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_06",
+    "q": "alternative dispute resolution services",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_07",
+    "q": "night guard services",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_08",
+    "q": "intellectual property consultancy",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_09",
+    "q": "legal compliance auditing",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  },
+  {
+    "id": "wipo_45_10",
+    "q": "rental of protective helmets",
+    "gt": 45,
+    "source": "WIPO NCL13-2026"
+  }
+]
